@@ -9,10 +9,10 @@ Allowed  extension:
 * .png
 
 ## Upload Image File
-*# URL
+* URL
    /image_file
   
-* ##Method
+* Method
    *PUT
 
 * URL Params
