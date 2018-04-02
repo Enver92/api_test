@@ -2,7 +2,7 @@
 
 ## Test API app using flask, flask-restful, sqlite3, boto
 
-# A user has to be authenticate to upload and download image files
+# A user has to be authenticated to upload and download image files
 Allowed  extension:
 * .jpeg
 * .jpg
