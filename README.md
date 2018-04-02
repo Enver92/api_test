@@ -13,10 +13,10 @@ Allowed  extension:
    * /image_file
   
 * Method
-   *PUT
+   * PUT
 
 * URL Params
-  *None
+   * None
  
 * Data Params
-  
+   * *image*  
