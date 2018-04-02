@@ -9,3 +9,14 @@ Allowed  extension:
 * .png
 
 ## Upload Image File
+* ##URL
+   /image_file
+  
+* ##Method
+   PUT
+
+* ##URL Params
+  None
+ 
+* ##Data Params
+  
