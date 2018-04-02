@@ -10,7 +10,7 @@ Allowed  extension:
 
 ## Upload Image File
 * URL
-   /image_file
+   * /image_file
   
 * Method
    *PUT
